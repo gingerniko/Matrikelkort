@@ -1,0 +1,112 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "tracks": []
+    },
+    "layers": {
+      "Fredede_omr_der_52db2213_0dea_413e_ae83_0be0bf780510": {
+        "enabled": true,
+        "tracks": []
+      },
+      "dai_skovbyggelinjer_524f26df_eccd_47b6_8d44_4781d1ea6178": {
+        "enabled": true,
+        "tracks": []
+      },
+      "daiskovbyggelinjer_de612b7e_d5fc_453b_aa04_abdd31f614bb": {
+        "enabled": true,
+        "tracks": []
+      },
+      "fp:d09ccf22": {
+        "enabled": true,
+        "tracks": []
+      },
+      "fredede_omrder_ac17b36c_594e_47e7_8763_b7e86cff56e3": {
+        "enabled": true,
+        "tracks": []
+      },
+      "frededeomr_der_dcf002ac_436e_4795_82dc_9c5a781ae010": {
+        "enabled": true,
+        "tracks": []
+      },
+      "pdk_theme_pdk_kommuneplan_oversigt_vedtaget_0b13add3_5deb_4aa0_b2ee_fc73d1f41740": {
+        "enabled": true,
+        "tracks": []
+      },
+      "pdk_theme_pdk_lokalplan_forslag_bb3438cc_93e1_4c18_958b_e3db824d05cf": {
+        "enabled": true,
+        "tracks": []
+      },
+      "pdk_theme_pdk_lokalplan_vedtaget_582fb518_92f0_4dc6_a2d7_e641004b3a83": {
+        "enabled": true,
+        "tracks": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "daiskovbyggelinjer_de612b7e_d5fc_453b_aa04_abdd31f614bb",
+      "name": "Skovbyggelinjer ",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "dai_skovbyggelinjer_524f26df_eccd_47b6_8d44_4781d1ea6178",
+      "name": "dai:skovbyggelinjer",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "frededeomr_der_dcf002ac_436e_4795_82dc_9c5a781ae010",
+      "name": "frededeområder",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "fredede_omrder_ac17b36c_594e_47e7_8763_b7e86cff56e3",
+      "name": "Fredede_områder_hvidovre2 — fredede_omrder",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Fredede_omr_der_52db2213_0dea_413e_ae83_0be0bf780510",
+      "name": "Fredede områder",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "pdk_theme_pdk_lokalplan_forslag_bb3438cc_93e1_4c18_958b_e3db824d05cf",
+      "name": "pdk:theme_pdk_lokalplan_forslag",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "pdk_theme_pdk_lokalplan_vedtaget_582fb518_92f0_4dc6_a2d7_e641004b3a83",
+      "name": "pdk:theme_pdk_lokalplan_vedtaget",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "pdk_theme_pdk_kommuneplan_oversigt_vedtaget_0b13add3_5deb_4aa0_b2ee_fc73d1f41740",
+      "name": "pdk:theme_pdk_kommuneplan_oversigt_vedtaget",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:d09ccf22",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 21002
+}
